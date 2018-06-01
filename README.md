@@ -1,1 +1,2 @@
-# Convers-o_bases
+# Conversão_bases
+Algoritimo para conversão de bases numéricas.
